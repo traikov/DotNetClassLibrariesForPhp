@@ -1,9 +1,9 @@
 <?php
 
-namespace DotNetClassLibraries\IO;
+namespace DotNetClassLibraries\System\IO;
 
 use DotNetClassLibraries\Platform;
-use Exception\NotImplementedException;
+use DotNetClassLibraries\System\NotImplementedException;
 
 /**
  * Class Path

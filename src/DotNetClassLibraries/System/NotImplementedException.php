@@ -1,6 +1,6 @@
 <?php
 
-namespace Exception;
+namespace DotNetClassLibraries\System;
 
 use Exception;
 
