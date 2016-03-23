@@ -1,0 +1,22 @@
+{
+    "name": "traikov/dot-net-class-libraries-for-php",
+    "type": "library",
+    "description": ".NET class libraries ported to the PHP language",
+    "keywords": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Filip Traikov",
+            "email": "traikovdev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "~7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DotNetClassLibraries\\": "src/"
+        }
+    }
+}
